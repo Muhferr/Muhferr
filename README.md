@@ -1,6 +1,6 @@
 -  Hi, I’m @Muhferr
 -  I'm currently learning to code
--  How can you reach me?
+-  Here I share my coding projects.
 
 <!---
 Muhferr/Muhferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
